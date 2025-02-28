@@ -10,6 +10,7 @@
 	- [FloodNet](./Projects/Floodnet.md)
 	- [Assembly Academy](./Projects/Assembly_Acadamy.md)
 	- [Misc. Simulation and Modeling](./Projects/Misc%20Simulation%20and%20Modeling.md)
+	- [AR Guitar App](./Projects/guitar.md)
 	- [Darts](./Projects/Darts.md)
 	- [Misc. OpenGl](./Projects/OpenGL_Misc.md)
 	- [Magic Mirror](./Projects/Magic%20Mirror.md)

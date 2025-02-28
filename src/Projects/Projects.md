@@ -25,6 +25,10 @@ I have a wide variety of projects using a many different programing languages.
 	![image](../Resources/sheepwolf.gif)
 	![image](../Resources/heatsim.gif)
 
+- [Guitar AR 2022 (Python)](./guitar.md)
+
+	![image](../Resources/Guitar.gif)
+
 - [Darts 2022 (C++)](./Darts.md)
 
 	![image](../Resources/dartboard.png)
