@@ -2,6 +2,10 @@
 
 I have a wide variety of projects using a many different programing languages.
 
+- [DK Lab (Linux System Administration)](./DK_Lab.md)
+
+	![image](../Resources/DK_Lab032025.jpg)
+
 - [kgemu 2025-WIP (rust)](./kgemu.md)
 - [DK APP 2025-WIP (Python FastAPI, WIP)](./DK_APP.md)
 - [Logic Gates Sim 2022-2024 (C)](./Logic_Gates_Sim.md)
