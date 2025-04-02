@@ -14,6 +14,7 @@
 	- [AR Guitar App](./Projects/guitar.md)
 	- [Darts](./Projects/Darts.md)
 	- [Misc. OpenGl](./Projects/OpenGL_Misc.md)
+	- [OS Sim](./Projects/OSSIM.md)
 	- [Magic Mirror](./Projects/Magic%20Mirror.md)
 	- [DARC](./Projects/DARC.md)
 

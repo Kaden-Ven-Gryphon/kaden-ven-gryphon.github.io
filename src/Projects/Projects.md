@@ -4,7 +4,7 @@ I have a wide variety of projects using a many different programing languages.
 
 - [DK Lab (Linux System Administration)](./DK_Lab.md)
 
-	![image](../Resources/DK_Lab032025.jpg)
+	![image](../Resources/dklab04012025.jpg)
 
 - [kgemu 2025-WIP (rust)](./kgemu.md)
 - [DK APP 2025-WIP (Python FastAPI, WIP)](./DK_APP.md)
@@ -40,6 +40,10 @@ I have a wide variety of projects using a many different programing languages.
 - [Misc. OpenGL 2021 (C++, OpenGL)](./OpenGL_Misc.md)
 
 	![image](../Resources/fish.gif)
+
+- [OS Sim 2020 (C#, .NET)](./OSSIM.md)
+
+	![image](../Resources/OSSim_rPXnovdpRA.png)
 
 - [Magic Mirror 2020 (Raspberry Pi)](./Magic%20Mirror.md)
 
