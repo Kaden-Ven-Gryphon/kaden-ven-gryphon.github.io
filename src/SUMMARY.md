@@ -4,6 +4,7 @@
 
 - [Projects](./Projects/Projects.md)
 	- [DK Lab](./Projects/DK_Lab.md)
+	- [Rusty Circuits](./Projects/rustycircuits.md)
 	- [KGEMU](./Projects/kgemu.md)
 	- [DK App](./Projects/DK_APP.md)
 	- [Logic Gates Sim](./Projects/Logic_Gates_Sim.md)
@@ -12,12 +13,15 @@
 	- [Assembly Academy](./Projects/Assembly_Acadamy.md)
 	- [Misc. Simulation and Modeling](./Projects/Misc%20Simulation%20and%20Modeling.md)
 	- [AR Guitar App](./Projects/guitar.md)
+	- [Game Design Final](./Projects/GameDesignFinal.md)
 	- [Darts](./Projects/Darts.md)
 	- [Misc. OpenGl](./Projects/OpenGL_Misc.md)
 	- [OS Sim](./Projects/OSSIM.md)
 	- [Magic Mirror](./Projects/Magic%20Mirror.md)
 	- [DARC](./Projects/DARC.md)
+	- [Timed Tag](./Projects/timedtag.md)
 
 - [Blog?](./Blog/20250323.md)
+	- [May 2025 1](./Blog/20250404.md)
 	- [March 2025 2](./Blog/20250330.md)
 	- [March 2025 1](./Blog/20250323.md)

@@ -6,4 +6,12 @@ I helped with the prototyping and brainstorming of the designing and game plan f
 
 Both years our robot and drivers scored 1st at South's BEST competition for the south east US, and our marketing team won 2nd. https://www.southsbest.org/results.html
 
-(I will have to dig up some old pictures, and see if I can the unity game to run to get some videos of that to add here.)
+## Marketing Booth game
+
+The player controls a robot in first person and moves around a building putting out fires.
+
+![image](../Resources/PyroDARC2.png)
+
+![image](../Resources/PyroDARC1.png)
+
+![image](../Resources/PyroDARC3.png)

@@ -6,6 +6,10 @@ I have a wide variety of projects using a many different programing languages.
 
 	![image](../Resources/dklab04012025.jpg)
 
+- [Rusty Circuits 2025-WIP (Rust)](./rustycircuits.md)
+
+	![image](../Resources/rustycircuitscreenshot1.png)
+
 - [kgemu 2025-WIP (rust)](./kgemu.md)
 - [DK APP 2025-WIP (Python FastAPI, WIP)](./DK_APP.md)
 - [Logic Gates Sim 2022-2024 (C)](./Logic_Gates_Sim.md)
@@ -33,6 +37,10 @@ I have a wide variety of projects using a many different programing languages.
 
 	![image](../Resources/Guitar.gif)
 
+- [Game Design Final](./GameDesignFinal.md)
+
+	![image](../Resources/GameDesignGame.png)
+
 - [Darts 2022 (C++)](./Darts.md)
 
 	![image](../Resources/dartboard.png)
@@ -50,3 +58,9 @@ I have a wide variety of projects using a many different programing languages.
 	![image](../Resources/mmFinal.png)
 
 - [DARC 2017-2018 (Arduino C, Unity C#)](./DARC.md)
+
+	![image](../Resources/PyroDARC3.png)
+
+- [Timed Tag Highschool Project (Unity C#)](./timedtag.md)
+
+	![image](../Resources/TimedTag.png)
